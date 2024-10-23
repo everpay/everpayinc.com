@@ -19,7 +19,7 @@ const WithNavBar: FC = () => {
   const locale = useLocale();
 
   const toggleCurrentTheme = () =>
-    setTheme(resolvedTheme === 'dark' ? 'light' : 'dark');
+    setTheme(resolvedTheme === 'light' ? 'light' : 'dark');
 
   return (
     <div>
