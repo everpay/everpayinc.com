@@ -2,8 +2,8 @@
   <br />
   <a href="https://nodejs.org">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://asset.cloudinary.com/lmj6rf6tz/aa3744a2890cbfe0ab82702520772310">
-      <img src="[https://nodejs.org/static/logos/nodejsDark.svg](https://asset.cloudinary.com/lmj6rf6tz/aa3744a2890cbfe0ab82702520772310)" width="200px">
+      <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/lmj6rf6tz/image/upload/v1496853334/Everpaylogo-261x67_jrwizm.png">
+      <img src="https://res.cloudinary.com/lmj6rf6tz/image/upload/v1496853334/Everpaylogo-261x67_jrwizm.png" width="200px">
     </picture>
   </a>
 </p>
