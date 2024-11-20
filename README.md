@@ -39,7 +39,7 @@ The  <a href="https://everpayinc.com">Everpay</a> website is built using Next.js
 
 ## What is this repo?
 
-[Nodejs.org](https://nodejs.org/) by the [OpenJS Foundation](https://openjsf.org/) is the official website for the Node.js® JavaScript runtime. This repo is the source code for the website. It is built using [Next.js](https://nextjs.org), a React Framework.
+[Everpayinc.com](https://everpayinc.com/) is the official website for Everpay®. This repo is the source code for the official website. It is built using [Next.js](https://nextjs.org), a React Framework.
 
 ```bash
 npm ci
