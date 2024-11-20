@@ -2,14 +2,14 @@
   <br />
   <a href="https://nodejs.org">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://nodejs.org/static/logos/nodejsLight.svg">
-      <img src="https://nodejs.org/static/logos/nodejsDark.svg" width="200px">
+      <source media="(prefers-color-scheme: dark)" srcset="https://asset.cloudinary.com/lmj6rf6tz/aa3744a2890cbfe0ab82702520772310">
+      <img src="[https://nodejs.org/static/logos/nodejsDark.svg](https://asset.cloudinary.com/lmj6rf6tz/aa3744a2890cbfe0ab82702520772310)" width="200px">
     </picture>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://everpayinc.com">Everpay</a> Everpay website built using Next.js with TypeScript, CSS Modules/Tailwind, and MDXv3
+The  <a href="https://everpayinc.com">Everpay</a> website is built using Next.js with TypeScript, CSS Modules/Tailwind, and MDXv3
 </p>
 
 <p align="center">
