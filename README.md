@@ -9,15 +9,15 @@
 </p>
 
 <p align="center">
-  <a href="https://nodejs.org">Node.js</a> Website built using Next.js with TypeScript, CSS Modules/Tailwind, and MDXv3
+  <a href="https://everpayinc.com">Everpay</a> Everpay website built using Next.js with TypeScript, CSS Modules/Tailwind, and MDXv3
 </p>
 
 <p align="center">
   <a title="MIT License" href="LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License" />
   </a>
-  <a title="Localised" href="https://crowdin.com/project/nodejs-web">
-    <img src="https://badges.crowdin.net/nodejs-web/localized.svg" alt="Crowdin Badge" />
+  <a title="Localised" href="https://crowdin.com/project/everpay-web">
+    <img src="https://badges.crowdin.net/everpay-web/localized.svg" alt="Crowdin Badge" />
   </a>
   <a title="Vercel" href="https://vercel.com">
     <picture>
